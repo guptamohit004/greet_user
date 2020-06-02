@@ -3,7 +3,7 @@
 Greet a user according to the TimeZone  using DENO.
 Returns Good Morning,Good Afternoon,Good Evening.
 
-[![Test CI](https://github.com/denorg/get-ip/workflows/Deno%20CI/badge.svg)](https://github.com/guptamohit004/greet_useractions)
+[![Test CI](https://github.com/denorg/get-ip/workflows/Deno%20CI/badge.svg)](https://github.com/guptamohit004/greet_user/actions)
 
 ## ⭐ Getting started
 
